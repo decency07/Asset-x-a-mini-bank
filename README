@@ -1,0 +1,46 @@
+📌 Asset-X Mini Banking System
+
+Overview
+
+Asset-X is a mini banking system built using Node.js, Express, MongoDB, and JWT authentication. This system allows users to register, login, create bank accounts, deposit, withdraw, and check balances.
+
+🚀 Installation & Setup
+
+1️⃣ Clone the Repository
+
+  git clone https://github.com/your-repo/asset-x-banking.git
+  cd asset-x-banking
+  cd code
+
+2️⃣ Install Dependencies
+
+  install Node.js, MongoDB, Postman or Thunder Client ( for VS Code )
+
+3️⃣ Set Up Environment Variables
+
+Create a .env file in the project root 
+
+4️⃣ Start the Server
+
+    node index.js
+
+If successful, you should see:
+
+🚀 Server running on PORT_NUMBER
+✅ Connected to MongoDB
+
+
+🛠 Tools & Technologies
+
+Backend: Node.js, Express.js
+
+Database: MongoDB
+
+Authentication: JWT (JSON Web Token)
+
+API Testing: Thunder Client / Postman
+
+
+
+Developed by P. MURALI
+
